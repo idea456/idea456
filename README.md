@@ -5,9 +5,23 @@
 - 🌱 Currently training hard on Leetcode to master my algorithmic knowledge and thinking 💪 🧠 
 - ⚡ Fun fact: I love Asian culture and languages, so that's why 日本語はかっこいいですから、本当にペラペラになりたいです！
 
-## I am compatible with:
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<br/>
 
+## I am compatible with:
+<img align="left" alt="Python" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Java" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="Javascript" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="Typescript" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+<img align="left" alt="Redux" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
+<img align="left" alt="React" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="Vue" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" alt="Firebase" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+<img align="left" alt="MongoDB" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<img align="left" alt="MySQL" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+
+<br/>
 
 ## 📫 Connect with me:
 
