@@ -5,8 +5,6 @@
 - 🌱 Currently training hard on Leetcode to master my algorithmic knowledge and thinking 💪 🧠 
 - ⚡ Fun fact: I love Asian culture and languages, so that's why 日本語はかっこいいですから、本当にペラペラになりたいです！
 
-<br/>
-
 ## I am compatible with:
 <img align="left" alt="Python" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="Java" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
@@ -21,8 +19,8 @@
 <img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 
-<br/>
 
 ## 📫 Connect with me:
+
 
 
