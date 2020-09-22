@@ -20,7 +20,5 @@
 <img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 
 
--- ## 📫 Connect with me:
-
 
 
