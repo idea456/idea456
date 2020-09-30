@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Adrienne, aka idea456
+# Heya 👋, I'm Adrienne, aka idea456
 - 🔭 Currently learning on building my knowledge on MERN stack and obtaining the AWS Cloud Practitioner certification!
 - 🌱 Currently training hard on Leetcode to master my algorithmic knowledge and thinking 💪 🧠 
 - ⚡ 日本語はかっこいいですから、本当にペラペラになりたいです！
