@@ -1,5 +1,5 @@
 # Heya 👋, I'm Adrienne, aka idea456
-- 🎓 &nbsp; Student Computer Science at Monash University
+- 🎓 &nbsp; Student studying Computer Science at Monash University
 - 🔭 &nbsp; Currently learning on building my knowledge on MERN stack and obtaining the AWS Cloud Practitioner certification
 - 🌱 &nbsp; Currently training hard on Leetcode to master my algorithmic knowledge and thinking 💪 🧠 
 - 👉 &nbsp; Check out my website here : https://idea456.github.io/adrienne-rio/
