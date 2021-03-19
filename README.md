@@ -11,6 +11,7 @@
 <img align="left" alt="Redux" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
 <img align="left" alt="React" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" alt="Vue" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" alt="Sass" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
 <img align="left" alt="Firebase" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 <img align="left" alt="MySQL" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
