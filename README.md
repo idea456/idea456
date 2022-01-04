@@ -15,7 +15,6 @@
 <img align="left" alt="Firebase" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 <img align="left" alt="MySQL" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="Golang" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
-<img align="left" alt="MySQL" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/haskell.svg" />
 
 
 
