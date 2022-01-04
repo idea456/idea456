@@ -5,7 +5,6 @@
 - 👉 &nbsp; Check out my website here : https://idea456.github.io/adrienne-rio/
 ## I am compatible with:
 <img align="left" alt="Python" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Java" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="Javascript" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="Typescript" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 <img align="left" alt="Redux" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
