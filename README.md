@@ -1,8 +1,6 @@
 # Heya 👋, I'm Adrienne, aka idea456
-- 🎓 &nbsp; Student studying Computer Science at Monash University
-- 🔭 &nbsp; Currently learning on building my knowledge on MERN stack and obtaining the AWS Cloud Practitioner certification
-- 🌱 &nbsp; Currently training hard on Leetcode to master my algorithmic knowledge and thinking 💪 🧠 
-- 👉 &nbsp; Check out my website here : https://idea456.github.io/adrienne-rio/
+- 🎓 &nbsp; Newly born front-end developer
+- 👉 &nbsp; Check out my website here : https://idea456.github.io/
 ## I am compatible with:
 <img align="left" alt="Python" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="Javascript" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
