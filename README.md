@@ -2,14 +2,16 @@
 
 <h3> Some facts about me </h3>
 
--  **I'm a front-end developer who loves to dive into low-level stuff🏻‍💻**
--  **Aspiring to transition and become a back-end developer soon🏻‍⚕️**
+-  **I'm a front-end developer who loves to dive into low-level stuff**
+-  **Aspiring to transition and become a back-end developer soon**
 -  **A keyboard enthusiast who loves building and collecting keyboards that *THOCKS***
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrienne-rio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riowongsoatmojo@gmail.com)
 
 ### Current personal projects
+I'm currently working on making a simple interpreter in Golang to learn fundamentals of compiler design, and maintaining a GraphQL API that is serving a Discord bot for tracking Genshin Impact activities
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=psu-lang&show_owner=true)](https://github.com/idea456/psu-lang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=painmon-api-go&show_owner=true)](https://github.com/idea456/painmon-api-go)
 
