@@ -1,18 +1,37 @@
-# Heya 👋, I'm Adrienne, aka idea456
-- 🎓 &nbsp; Newly born front-end developer
-- 👉 &nbsp; Check out my website here : https://idea456.github.io/
-## I am compatible with:
-<img align="left" alt="Python" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Javascript" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="Typescript" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img align="left" alt="Redux" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
-<img align="left" alt="React" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img align="left" alt="Vue" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
-<img align="left" alt="Sass" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img align="left" alt="Firebase" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
-<img align="left" alt="MySQL" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-<img align="left" alt="Golang" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
+# Heya 👋, I'm Adrienne, aka fireless
 
+<h3> Some facts about me </h3>
 
+-  **I'm a front-end developer who loves to dive into low-level stuff🏻‍💻**
+-  **Aspiring to transition and become a back-end developer soon🏻‍⚕️**
+-  **A keyboard enthusiast who loves building and collecting keyboards that *THOCKS***
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+### Current personal projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=psu-lang&show_owner=true)](https://github.com/idea456/psu-lang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=painmon-api-go&show_owner=true)](https://github.com/idea456/painmon-api-go)
+
+### Current languages I've been learning so far
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks/Libraries I've used
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+### Techs I'm currently learning
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Some stats on coding platforms
