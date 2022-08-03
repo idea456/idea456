@@ -6,8 +6,8 @@
 -  **Aspiring to transition and become a back-end developer soon🏻‍⚕️**
 -  **A keyboard enthusiast who loves building and collecting keyboards that *THOCKS***
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrienne-rio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riowongsoatmojo@gmail.com)
 
 ### Current personal projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=psu-lang&show_owner=true)](https://github.com/idea456/psu-lang)
@@ -33,5 +33,3 @@
 ![](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Some stats on coding platforms
