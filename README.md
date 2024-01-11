@@ -1,4 +1,4 @@
-# Heya 👋, I'm Adrienne, aka fireless
+# Heya 👋, I'm Adrienne, aka firelessone
 
 <h3> Some facts about me </h3>
 
@@ -13,6 +13,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=sunsettia&show_owner=true)](https://github.com/idea456/sunsettia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=schema-transformer&show_owner=true)](https://github.com/idea456/schema-transformer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=commit-pilot&show_owner=true)](https://github.com/idea456/commit-pilot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=psu-lang&show_owner=true)](https://github.com/idea456/psu-lang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idea456&repo=plug-server&show_owner=true)](https://github.com/idea456/plug-server)
+
 
 ### Current languages I've been learning so far
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
